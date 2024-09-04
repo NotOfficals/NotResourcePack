@@ -6,4 +6,4 @@
 Права
 - notrp.reload
 
-- https://lightleak.pro/attachments/lightleak-izobrazhenie_2024-09-04_180512930-png.12986/
+![photo_2024-09-04_19-11-55](https://github.com/user-attachments/assets/10fdebc7-1ed8-41ad-8d9b-fd0a306c18bd)
