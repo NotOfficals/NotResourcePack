@@ -1,0 +1,15 @@
+name: NotResourcePack
+version: '${project.version}'
+main: not.notoffical.NotResourcePack
+api-version: '1.16'
+
+commands:
+  notrpreload:
+    description: Перезагрузка конфигурации плагина
+    usage: /<command> reload
+    permission: notrp.reload
+
+permissions:
+  notrp.reload:
+    description: Право на перезагрузку конфигурации плагина
+    default: op
